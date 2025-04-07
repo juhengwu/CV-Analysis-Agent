@@ -1,0 +1,85 @@
+{
+  "name": "Jason Miller",
+  "email": "email@email.com",
+  "phone": "3868683442",
+  "location": "Los Angeles, CA",
+  "work_experience": [
+    {
+      "position": "Amazon Warehouse Associate",
+      "company": "Amazon",
+      "start_date": "January 2021",
+      "end_date": "July 2022",
+      "responsibilities": "Performed all warehouse laborer duties such as packing, picking, counting, record keeping, and maintaining a clean area."
+    },
+    {
+      "position": "Laboratory Inventory Assistant",
+      "company": "Dunrea Laboratories",
+      "start_date": "January 2019",
+      "end_date": "December 2020",
+      "responsibilities": "Full-time lab assistant in a small, regional laboratory tasked with participating in Kaizen Events, Gemba walks, and 5S to remove barriers and improve productivity."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Associates Degree in Logistics and Supply Chain Fundamentals",
+      "institution": "Atlanta Technical College, Atlanta",
+      "start_date": "2021-01",
+      "end_date": "2022-07"
+    },
+    {
+      "degree": "Online Graduate Certificate in Warehousing & Supply Chain Management",
+      "institution": "Southern New Hampshire University (SNHU), NH",
+      "start_date": "2022-07",
+      "end_date": "2022-07"
+    },
+    {
+      "degree": "Warehousing, Operations, and Disposal Course",
+      "institution": "Graduate School USA, Washington DC",
+      "start_date": "2021-01",
+      "end_date": "2021-05"
+    }
+  ],
+  "project_experience": [
+    {
+      "project_name": "",
+      "description": "",
+      "tech_stack": [],
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "keywords": [
+    "mathematics",
+    "cleaning equipment",
+    "kaizen events",
+    "kanban system",
+    "english",
+    "picking",
+    "inventory management",
+    "packing",
+    "distribution practices",
+    "operations",
+    "warehousing",
+    "supply chain",
+    "warehouse sanitation",
+    "spanish",
+    "warehouse laborer",
+    "5s",
+    "logistics",
+    "deep sanitation practices",
+    "shipping",
+    "gemba walks",
+    "record keeping",
+    "disposal"
+  ],
+  "other": [
+    "Decreased error rate and QC several more orders shipped per day",
+    "Awarded 'Employee of the month' for consistent attendance, punctuality, and performance",
+    "Managed workflow of associates for the FC",
+    "Completed a certificate in warehouse sanitation",
+    "Holds a valid commercial driver’s license"
+  ],
+  "sentiment": {
+    "comment": "The resume presents Jason Miller as a well-experienced Amazon Associate with a notable record in maintaining high picking/packing speeds and accuracy, which is essential in logistics roles. The candidate has effectively communicated quantifiable achievements, such as error rates and productivity improvements, adding credibility to their skills. However, the layout could benefit from clearer separation of sections and a concise skill list to enhance readability. Additionally, reducing repetition of 'Cleaning Equipment' under skills can help avoid redundancy."
+  }
+}

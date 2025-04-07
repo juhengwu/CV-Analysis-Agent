@@ -1,0 +1,101 @@
+{
+  "name": "Kristen Connelly",
+  "email": "email@email.com",
+  "phone": "3868683442",
+  "location": "Los Angeles, CA",
+  "work_experience": [
+    {
+      "position": "Video Production Assistant",
+      "company": "Blue Penguin Designs",
+      "start_date": "February 2021",
+      "end_date": "Present",
+      "responsibilities": "Responsible for supporting a large scale production team of 100 people, throughout production, including development, pre-production, post-production, principal photography, and distribution. Managed the bookings for guests, the green room traffic, and any guest suites. Researched story ideas and then compiled footnotes and gathered footage for presentation. Completed Video Production-scriptwriting, audio editing, and mixing using the Avid non-linear editing system. Maintained and assisted with Production Acquisition."
+    },
+    {
+      "position": "Video Production Assistant",
+      "company": "Botle Bob Advertising",
+      "start_date": "January 2019",
+      "end_date": "February 2021",
+      "responsibilities": "Responsible for organizing and preparing visual and audio equipment to be used on video projects. Helped edit graphics and video projects from conception to creation. Collaborated with the production team to provide content, digital assets, presentations, and other video needs. Built, edited, and polished videography proposals for business clients. Staged and set up audio and video equipment for studio and on-location shoots. Performed minor maintenance on video and audio equipment and managed any required vendor repair."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BA in Film and Television",
+      "institution": "Boston University, Boston",
+      "start_date": "2021-02",
+      "end_date": "Present"
+    },
+    {
+      "degree": "Advanced Course in Digital Video Editing",
+      "institution": "ADMEC Multimedia Institute, Online",
+      "start_date": "2018-01",
+      "end_date": "2018-07"
+    }
+  ],
+  "project_experience": [
+    {
+      "project_name": "Video Production Assistant at Blue Penguin Designs",
+      "description": "Supported a large-scale production team of 100 people throughout various production phases.",
+      "tech_stack": [
+        "Premiere Pro",
+        "Avid non-linear editing system"
+      ],
+      "start_date": "2021-02",
+      "end_date": "Present"
+    },
+    {
+      "project_name": "Video Production Assistant at Botle Bob Advertising",
+      "description": "Organized and prepared visual and audio equipment for video projects for clients such as Pfizer, Knoll Pharmaceuticals, and Merck.",
+      "tech_stack": [
+        "Premiere Pro"
+      ],
+      "start_date": "2019-01",
+      "end_date": "2021-02"
+    }
+  ],
+  "keywords": [
+    "mountainbiking",
+    "scriptwriting",
+    "english",
+    "videography",
+    "premiere pro",
+    "hootsuite",
+    "video equipment",
+    "light boom",
+    "avid",
+    "davinci resolve",
+    "boston university",
+    "adobe cs5",
+    "digital video editing",
+    "video production",
+    "mixing",
+    "international film",
+    "camera boom",
+    "digital assets",
+    "television drama",
+    "adobe premiere pro",
+    "choir",
+    "graphics editing",
+    "flemish",
+    "storytelling",
+    "mic boom",
+    "dutch",
+    "non-linear editing",
+    "track athletics",
+    "production acquisition",
+    "call sheets",
+    "audio editing",
+    "staging",
+    "maintenance"
+  ],
+  "other": [
+    "Full driving license",
+    "Place of Birth: San Antonio",
+    "Hootsuite Certified Professional",
+    "Adobe CS5 Certified"
+  ],
+  "sentiment": {
+    "comment": "Kristen Connelly's resume presents a professional and clear overview of her experience as a Video Production Assistant. The layout is easy to follow, and specific tools like Premiere Pro and DaVinci Resolve are highlighted well, adding relevance. Areas for improvement include greater quantification of achievements to give concrete evidence of her impact. Formatting consistency in listing education and certifications would enhance clarity."
+  }
+}

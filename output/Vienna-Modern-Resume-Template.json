@@ -1,0 +1,101 @@
+{
+  "name": "Janine Nel",
+  "email": "email@email.com",
+  "phone": "3868683442",
+  "location": "Los Angeles, CA",
+  "work_experience": [
+    {
+      "position": "Sales Engineer",
+      "company": "Engen Oil",
+      "start_date": "May 2022",
+      "end_date": "May 2022",
+      "responsibilities": "Primary duty was to recognize and provide current and future customer necessities in areas of filtration and lubrication products and services. Initiated Lubrication Fundamentals classes for employees and customers, which provided education on basic product info, machine elements that need lubrication, application methods, storing lubricant, and lubricant conservation and handling. Designed and applied a highly effective industrial filtration program that produced up to 2,000 gallons of processed oil weekly, which resulted in a considerable expense saving for the customer and improved profits for the company. Designed and applied for numerous lubrication programs, providing additional value-added services and improved profit margins. Functioned as a consultant on Best-in-Class Lubrication programs."
+    },
+    {
+      "position": "Sales Engineer",
+      "company": "Quest Medical",
+      "start_date": "January 2019",
+      "end_date": "April 2021",
+      "responsibilities": "Accountable for day-to-day program management, customer relationships, and estimating the shaping and assembly of medical programs for critical Fortune 500 Clients: Pall Life Sciences, Baxter Healthcare, and Quest Medical. Designed and presented tailored technical solutions to top-3 state automotive dealers, driving sales from $3M to 11$M over t5 years. Supervised logistics and Proof of concept pilots worth up to $800,000. Exceeded yearly quota by 145% by actively outperforming the competition in public tenders and providing 97.5% satisfaction support over the managed Territory of current accounts."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Masters in Industrial Engineering",
+      "institution": "Harvard University, Miami",
+      "start_date": "2019-01",
+      "end_date": "2022-05"
+    },
+    {
+      "degree": "Professional Engineering (PE) Exam",
+      "institution": "National Council of Examiners for Engineering and Surveying (NCEES), Newton",
+      "start_date": "2018-01",
+      "end_date": "2019-12"
+    }
+  ],
+  "project_experience": [
+    {
+      "project_name": "Lubrication Fundamentals Classes",
+      "description": "Initiated educational classes for employees and customers on lubrication basics and conservation.",
+      "tech_stack": [
+        "Education"
+      ],
+      "start_date": "",
+      "end_date": ""
+    },
+    {
+      "project_name": "Industrial Filtration Program",
+      "description": "Designed and applied a filtration program producing 2,000 gallons of processed oil weekly, leading to significant cost savings.",
+      "tech_stack": [
+        "Industrial Filtration"
+      ],
+      "start_date": "",
+      "end_date": ""
+    },
+    {
+      "project_name": "Lubrication Programs",
+      "description": "Designed and implemented numerous lubrication programs for value-added services and improved profit margins.",
+      "tech_stack": [
+        "Lubrication"
+      ],
+      "start_date": "",
+      "end_date": ""
+    },
+    {
+      "project_name": "Tailored Technical Solutions",
+      "description": "Designed and presented customized technical solutions to state automotive dealers, significantly increasing sales.",
+      "tech_stack": [
+        "Technical Sales"
+      ],
+      "start_date": "",
+      "end_date": ""
+    },
+    {
+      "project_name": "Logistics and Proof of Concept Pilots",
+      "description": "Supervised logistics and pilots worth up to $800,000 to ensure proof of concept.",
+      "tech_stack": [
+        "Logistics"
+      ],
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "keywords": [
+    "sales forecasting",
+    "agile project management",
+    "technical diagrams",
+    "english",
+    "engineering",
+    "autocad",
+    "industry trends",
+    "dutch"
+  ],
+  "other": [
+    "Piano, Debate, Triathlon",
+    "Deadline-focused Sales Engineer with six years experience",
+    "Volunteer at Code for Good"
+  ],
+  "sentiment": {
+    "comment": "The resume is quite professional with a clear layout and presents relevant experiences. Janine has effectively highlighted her contributions, such as significant sales growth and technical program design, demonstrating clear value to previous employers. However, the resume would benefit from more consistent formatting (e.g., alignment, bullet points) and using numbers more consistently, such as in the employment history section to quantify achievements. Additionally, providing more precise dates or durations would offer better clarity on timeline and experience."
+  }
+}
